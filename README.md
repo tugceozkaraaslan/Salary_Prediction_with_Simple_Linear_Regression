@@ -32,7 +32,7 @@ $$y = \beta_0 + \beta_1x$$
 
 1. Clone the project to your local machine:
 ```bash
-git clone https://github.com/your-username/salary-prediction.git
+git clone https://github.com/tugceozkaraaslan/salary-prediction.git
 
 ```
 
